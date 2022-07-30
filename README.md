@@ -8,8 +8,8 @@ A chat application built with react, nodejs and socket.io. using tutorials from 
 
 ## Chat 
 
-![Chat](<img src="https://user-images.githubusercontent.com/23531833/182003390-5f4a5ac5-9e24-43b6-99f7-2e3d8788bdcf.jpg"/>)
-)
+<a><img src="https://user-images.githubusercontent.com/23531833/182003390-5f4a5ac5-9e24-43b6-99f7-2e3d8788bdcf.jpg"/></a>
+
 
 
 ## You can check the deployment here:
