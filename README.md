@@ -4,11 +4,11 @@ A chat application built with react, nodejs and socket.io. using tutorials from 
 <br/>
 
 ## Start
-![Join](![1screen](https://user-images.githubusercontent.com/23531833/182003384-52f116cd-5e9f-4616-b692-b68f4887ac42.jpg))
+![Join](<img src="https://user-images.githubusercontent.com/23531833/182003384-52f116cd-5e9f-4616-b692-b68f4887ac42.jpg" />)
 
 ## Chat 
 
-![Chat](![2screen](https://user-images.githubusercontent.com/23531833/182003390-5f4a5ac5-9e24-43b6-99f7-2e3d8788bdcf.jpg)
+![Chat](<img src="https://user-images.githubusercontent.com/23531833/182003390-5f4a5ac5-9e24-43b6-99f7-2e3d8788bdcf.jpg"/>)
 )
 
 
